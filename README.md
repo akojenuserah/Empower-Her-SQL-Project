@@ -17,7 +17,7 @@ The datset contained 5 differnets sheets named orders, products, orders_item, or
 The tools used for this project are;
 
 - Microsft Excel
-- PostgresSQL
+- PostgresSQL(Pgadmi4)
 
 ## Steps Taken
 
