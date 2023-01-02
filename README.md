@@ -23,9 +23,5 @@ The tools used for this project are;
 
 - Downloaded each file in and excel format.
 - Created a database for my working environment.
-- Created a table each for the sheets.
-NOTE: While creating the orders table, I encountered some challenges and below were the ways I solved them;
-     - The major challenge was with the shipped_date column having NULL values and the NOT NULL constraint did not work for it. I made research and found out that Pgadmin cannot read in a null value in a date format column. So I changed the null values to 4/1/1990.
-     - The other constraint was with the shipper_id colum and the NOT NULL constraint could also not work for it. So, i filled the null values with 0.
-     
+- Created a table each for the sheets.   
 - Answered some questions by running queries.
